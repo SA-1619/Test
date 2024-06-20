@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is for the git test. 
+=======
+this my test for git. 
+>>>>>>> c9ebe1f48d6c7df262fe89769be3f3ca64282264
